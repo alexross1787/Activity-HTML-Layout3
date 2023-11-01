@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+span {
+    display: inline-block;
+}
+
+span img {
+    width: 100px;
+    
+}
+
+#pic {
+    display: flex;
+    justify-content: center;
+}
+#pic img {
+  width: 600px;
+}
+
+#icons {
+    font-size: 30px;
+    color: white;
+}
+
+p {
+    color: white;
+    font-family: Roboto;
+}
